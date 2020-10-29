@@ -93,7 +93,7 @@ $count = mysqli_query($link, "SELECT id FROM date_convert");
 $num_rows = mysqli_num_rows($count);
 
 
-$limit = $_POST['limit'];
+$limit = (int)$_POST['limit'];
 
 $query_select = mysqli_query($link, "SELECT id, data, date_time FROM date_convert ORDER BY id DESC LIMIT $limit");
 
