@@ -43,7 +43,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +58,7 @@
       <workItem from="1603873354025" duration="2063000" />
       <workItem from="1603875443722" duration="154000" />
       <workItem from="1603875616570" duration="23861000" />
-      <workItem from="1603904816980" duration="1247000" />
+      <workItem from="1603904816980" duration="1684000" />
     </task>
     <servers />
   </component>
@@ -78,10 +78,14 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2059" y="304" width="524" height="505" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603821108481" />
-    <state x="2109" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603875666051">
+    <state x="2109" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603956915824">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="2109" y="311" width="424" height="491" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603875666051" />
+    <state x="2109" y="311" width="424" height="491" key="FileChooserDialogImpl/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603956915824" />
+    <state x="2160" y="476" width="332" height="161" key="Github.CreateGistDialog" timestamp="1603956899053">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2160" y="476" width="332" height="161" key="Github.CreateGistDialog/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603956899053" />
     <state x="2122" y="284" width="398" height="545" key="NewPhpClassDialog" timestamp="1603822822211">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
@@ -90,10 +94,10 @@
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="2165" y="480" width="312" height="154" key="NewPhpFileDialog/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603873039120" />
-    <state x="1878" y="163" width="962" height="737" key="SettingsEditor" timestamp="1603875748760">
+    <state x="1878" y="163" width="962" height="737" key="SettingsEditor" timestamp="1603956925686">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
-    <state x="1878" y="163" width="962" height="737" key="SettingsEditor/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603875748760" />
+    <state x="1878" y="163" width="962" height="737" key="SettingsEditor/1366.0.1920.1080/0.27.1366.741@1366.0.1920.1080" timestamp="1603956925686" />
     <state x="2208" y="454" width="283" height="370" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1603889641532">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
